@@ -1,10 +1,10 @@
 <?php
 
-namespace Devio\Affiliate;
+namespace Devio\Affiliate\Middleware;
 
 use Closure;
 
-class AffiliateMiddleware
+class TrackAffiliate
 {
     /**
      * Handle an incoming request.
