@@ -3,6 +3,7 @@
 namespace Devio\Affiliate\Middleware;
 
 use Closure;
+use Devio\Affiliate\Manager;
 
 class TrackAffiliate
 {
