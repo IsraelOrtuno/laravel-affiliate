@@ -2,8 +2,7 @@
     "name": "devio/laravel-affiliate",
     "authors": [
         {
-            "name": "Israel Ortuño",
-            "email": "ai.ortuno@gmail.com"
+            "name": "Israel Ortuño"
         }
     ],
     "require": {},
